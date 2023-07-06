@@ -7,5 +7,8 @@
 - 😄 Pronouns: he/him, Beybut
 - ⚡ Fun fact: idk
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beycoder&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beycoder&theme=radical&hide=c,roff)](https://github.com/anuraghazra/github-readme-stats)
+## Stats:
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=beycoder&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Wakatime
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BeyCoder&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
