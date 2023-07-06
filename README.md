@@ -7,4 +7,4 @@
 - 😄 Pronouns: he/him, Beybut
 - ⚡ Fun fact: idk
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beycoder)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beycoder&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
