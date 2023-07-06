@@ -8,7 +8,7 @@
 - ⚡ Fun fact: idk
 
 ## Stats:
-![visitors](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![visitors](https://komarev.com/ghpvc/?username=beycoder&color=blueviolet)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=beycoder&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
