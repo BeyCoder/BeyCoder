@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [FCK.Foundation](https://github.com/FCK-Foundation)
+- 🔭 I’m currently working on [FCK.Team](https://github.com/FCK-Foundation)
 - 🌱 I’m currently learning: TON Blockchain, Flutter
 - 📫 How to reach me:
   1. @beycoder (Telegram)
