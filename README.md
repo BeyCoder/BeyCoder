@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [FCK.Team](https://github.com/FCK-Foundation)
-- 🌱 I’m currently learning: TON Blockchain, Flutter
 - 📫 How to reach me:
-  1. @beycoder (Telegram)
-- 😄 Pronouns: he/him, Beybut
-- ⚡ Fun fact: idk
+  1. @beycoder (Telegram, Twitter, Reddit)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I want to reach GDE Golang in 2025
 
 ## Stats:
 ![visitors](https://komarev.com/ghpvc/?username=beycoder&color=blueviolet)
